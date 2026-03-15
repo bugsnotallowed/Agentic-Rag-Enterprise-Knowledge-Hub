@@ -1,4 +1,4 @@
-# Agentic Enterprise Knowledge Hub (Production-Level RAG)
+# Agentic RAG Enterprise Knowledge Hub (Production-Level RAG)
 
 A 100% local, free, and agentic RAG (Retrieval-Augmented Generation) system built for professional knowledge intelligence. This project demonstrates high-performance AI engineering by moving beyond "naive" RAG into **Agentic Workflows** using **LangGraph** and **Ollama**.
 
