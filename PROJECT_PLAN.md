@@ -1,4 +1,4 @@
-# Project Plan: Agentic Enterprise Knowledge Hub (Production-Level RAG)
+# Project Plan: Agentic RAG Enterprise Knowledge Hub (Production-Level RAG)
 
 This project aims to build a scalable, high-performance, and verifiable RAG system that uses an **Agentic Workflow** to process complex queries across diverse datasets (PDFs, Markdown, CSVs).
 
